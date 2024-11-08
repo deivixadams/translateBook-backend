@@ -56,8 +56,8 @@ termcolor==2.5.0
 tiktoken==0.7.0
 tokenizers==0.20.3
 torch==2.1.0
+torchvision==0.15.1
 torchaudio==2.1.0
-torchvision==2.1.
 tqdm==4.66.4
 transformers==4.46.2
 typing_extensions==4.12.0
